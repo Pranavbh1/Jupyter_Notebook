@@ -1,6 +1,11 @@
 # Jupyter_Notebook
-Python Module all assignment - daily task - challangingQ - interview based Q.
-Under Guidance of Faculty Nagaraju_Ekkirala.
+Python Module : - 
+1. All assignment
+2. Daily task
+3. Challanging Questions
+4. Interview based Questions ( by Faculty 'Vaibhav Premlata').
+
+Python Module Under Guidance of Faculty Nagaraju_Ekkirala.
 
 Reach Nagaraju_Ekkirala : 
 
