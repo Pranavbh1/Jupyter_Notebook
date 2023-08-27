@@ -4,6 +4,7 @@ Python Module : -
 2. Daily task
 3. Challanging Questions
 4. Interview based Questions ( by Faculty 'Vaibhav Premlata').
+5. Python Notes ( by OWN)
 
 Python Module Under Guidance of Faculty Nagaraju_Ekkirala.
 
